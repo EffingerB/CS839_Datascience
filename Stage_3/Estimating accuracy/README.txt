@@ -15,7 +15,7 @@ Prediction Set - apply_classifier_1.csv
 Original size of candidate list - 770
 
 Reduced Candidate Set (400 tuples) - reduced_Job_Movie_apply_rules_ds.csv
-Labeled Set - labeled.csv
+Labeled Set (400 tuples) - labeled.csv
 
 PDF File detailing the number of candidate set tuples, density computation as well as the precision recall details - Precision_Recall.pdf
 

@@ -1,4 +1,3 @@
-Candidate set contains 770 tuples.
 Results for precision recall obtained:
 ((1.0, 1.0), (0.9722216822159181, 0.9869619912534696))
 

@@ -9,8 +9,8 @@ Recall:
 [0.972, 0.987]
 
 The following were our tables:
-Table A - IMDB.csv
-Table B - Metacritic.csv
+Table A - IMDB.csv (3250 tuples)
+Table B - Metacritic.csv (3100 tuples)
 Cadidate Set - Job_Movie_apply_rules_ds.csv
 Prediction Set - apply_classifier_1.csv
 

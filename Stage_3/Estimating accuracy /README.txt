@@ -2,11 +2,9 @@ Candidate set contains 770 tuples.
 Results for precision recall obtained:
 ((1.0, 1.0), (0.9722216822159181, 0.9869619912534696))
 
-Precision:
-[1.0, 1.0]
+Recall = [1.0, 1.0]
 
-Recall:
-[0.972, 0.987]
+Precision = [0.972, 0.987]
 
 The following were our tables:
 Table A - IMDB.csv (3250 tuples)

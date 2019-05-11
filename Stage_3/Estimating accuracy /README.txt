@@ -21,7 +21,7 @@ Labeled Set - labeled.csv
 
 PDF File detailing the number of candidate set tuples, density computation as well as the precision recall details - Precision_Recall.docx
 
-Density calculation on the 50 tuples of the candidate set - density_check.ipynb
-Script to help label the 400 candidate set tuples - label_help.ipynb
+density_check.ipynb - Density calculation on the 50 tuples of the candidate set 
+label_help.ipynb - Script to help label the 400 candidate set tuples
 
 estimating_precision_recall.ipynb - Jupyter notebook provided with the file paths of the tables A, B, prediction list, candidate set, and the labeled csv files.

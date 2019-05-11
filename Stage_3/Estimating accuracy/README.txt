@@ -17,7 +17,7 @@ Original size of candidate list - 770
 Reduced Candidate Set (400 tuples) - reduced_Job_Movie_apply_rules_ds.csv
 Labeled Set - labeled.csv
 
-PDF File detailing the number of candidate set tuples, density computation as well as the precision recall details - Precision_Recall.docx
+PDF File detailing the number of candidate set tuples, density computation as well as the precision recall details - Precision_Recall.pdf
 
 density_check.ipynb - Density calculation on the 50 tuples of the candidate set 
 label_help.ipynb - Script to help label the 400 candidate set tuples
